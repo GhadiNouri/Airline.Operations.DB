@@ -1,8 +1,7 @@
 # Airline-Operations-DB
 
 ## Overview
-This project is a relational database system designed to manage core airline operations, including flights, reservations, boarding, pilots, aircraft, seat assignments, and payment details.  
-The goal is to simulate how real-world airline management systems store, organize, and connect data across multiple operational layers.
+This project is a relational database system designed to manage core airline operations, including flights, reservations, boarding, pilots, aircraft, seat assignments, and payment details. The goal is to simulate how real-world airline management systems store, organize, and connect data across multiple operational layers.
 Developed using **MySQL Workbench**, the database follows proper normalization, foreign key constraints, and structured relationships to ensure data consistency.
 
 ## System Capabilities
